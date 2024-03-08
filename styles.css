@@ -1,0 +1,21 @@
+body {
+    text-align: center;
+    background-color: beige;
+}
+
+h2 {
+    background-color: #05445E;
+    font-size: 60px;
+    margin-left: 25%;
+    padding: 10px;
+    width: 50%;
+    color: #D4F1F4;
+}
+
+button {
+    padding: 15px 20px;
+    font-size: 20px;
+    cursor: pointer;
+    background-color: #189AB4;
+    color: white;
+}
